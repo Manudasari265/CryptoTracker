@@ -11,4 +11,4 @@ Tech Stack used:-
 * JavaScript
 * BootStrap 4.
 
-[![My Skills](https://skills.thijs.gg/icons?i=HTML)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
