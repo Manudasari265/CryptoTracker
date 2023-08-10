@@ -18,5 +18,7 @@ Tech Stack used:-
 * CSS 
 * JavaScript
 * BootStrap 4.
+* Axios
+* Cryptostat API
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
