@@ -21,4 +21,12 @@ Tech Stack used:-
 * Axios
 * Cryptostat API
 
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
